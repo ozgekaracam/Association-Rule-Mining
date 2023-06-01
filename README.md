@@ -1,2 +1,2 @@
-# Apriori-Algorithm
-Implementation of Apriori algorithm in Python
+# Association Rule Mining Algorithm
+1. Apriori algorithm (using mlxtend)
