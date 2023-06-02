@@ -1,2 +1,2 @@
 # Association Rule Mining Algorithm
-Apriori, FP-Growth
+Apriori, FP-Growth, ECLAT
